@@ -1,0 +1,6 @@
+framework module Pods_Regal_Vision_Reality {
+  umbrella header "Pods-Regal Vision Reality-umbrella.h"
+
+  export *
+  module * { export * }
+}

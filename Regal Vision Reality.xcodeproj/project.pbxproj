@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2237F2CAF0F01A7B4C4B5568 /* Pods_Regal_Vision_RealityTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C543B6C7DE7787F36378B19 /* Pods_Regal_Vision_RealityTests.framework */; };
+		47B19BBDC4D2DE9E7AC388C5 /* Pods_Regal_Vision_RealityUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8408EC827372D85AFB53745C /* Pods_Regal_Vision_RealityUITests.framework */; };
 		57807BFD226B64D200ECF6C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57807BFC226B64D200ECF6C7 /* AppDelegate.swift */; };
 		57807BFF226B64D200ECF6C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57807BFE226B64D200ECF6C7 /* ViewController.swift */; };
 		57807C02226B64D200ECF6C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57807C00226B64D200ECF6C7 /* Main.storyboard */; };
@@ -14,6 +16,7 @@
 		57807C07226B64D300ECF6C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57807C05226B64D300ECF6C7 /* LaunchScreen.storyboard */; };
 		57807C12226B64D300ECF6C7 /* Regal_Vision_RealityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57807C11226B64D300ECF6C7 /* Regal_Vision_RealityTests.swift */; };
 		57807C1D226B64D300ECF6C7 /* Regal_Vision_RealityUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57807C1C226B64D300ECF6C7 /* Regal_Vision_RealityUITests.swift */; };
+		5D28D1A9D16CF48D0A22D524 /* Pods_Regal_Vision_Reality.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F075480A9B62D5420B29541D /* Pods_Regal_Vision_Reality.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		032C5C8AC647783C56207249 /* Pods-Regal Vision RealityUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision RealityUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision RealityUITests/Pods-Regal Vision RealityUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		3C543B6C7DE7787F36378B19 /* Pods_Regal_Vision_RealityTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regal_Vision_RealityTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		57323FD912FB31E59C5611F2 /* Pods-Regal Vision Reality.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision Reality.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision Reality/Pods-Regal Vision Reality.debug.xcconfig"; sourceTree = "<group>"; };
 		57807BF9226B64D200ECF6C7 /* Regal Vision Reality.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Regal Vision Reality.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57807BFC226B64D200ECF6C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57807BFE226B64D200ECF6C7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +53,12 @@
 		57807C18226B64D300ECF6C7 /* Regal Vision RealityUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Regal Vision RealityUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57807C1C226B64D300ECF6C7 /* Regal_Vision_RealityUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regal_Vision_RealityUITests.swift; sourceTree = "<group>"; };
 		57807C1E226B64D300ECF6C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8408EC827372D85AFB53745C /* Pods_Regal_Vision_RealityUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regal_Vision_RealityUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		888B5AF1CAC1FD4ECAF1E4FE /* Pods-Regal Vision RealityTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision RealityTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision RealityTests/Pods-Regal Vision RealityTests.release.xcconfig"; sourceTree = "<group>"; };
+		947FACAEF0798F99D385F139 /* Pods-Regal Vision RealityUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision RealityUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision RealityUITests/Pods-Regal Vision RealityUITests.release.xcconfig"; sourceTree = "<group>"; };
+		9AD0AAFFDBEA6A788BEB0F39 /* Pods-Regal Vision RealityTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision RealityTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision RealityTests/Pods-Regal Vision RealityTests.debug.xcconfig"; sourceTree = "<group>"; };
+		EB662883BBB84EB3F7109AAC /* Pods-Regal Vision Reality.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regal Vision Reality.release.xcconfig"; path = "Pods/Target Support Files/Pods-Regal Vision Reality/Pods-Regal Vision Reality.release.xcconfig"; sourceTree = "<group>"; };
+		F075480A9B62D5420B29541D /* Pods_Regal_Vision_Reality.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regal_Vision_Reality.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D28D1A9D16CF48D0A22D524 /* Pods_Regal_Vision_Reality.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2237F2CAF0F01A7B4C4B5568 /* Pods_Regal_Vision_RealityTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47B19BBDC4D2DE9E7AC388C5 /* Pods_Regal_Vision_RealityUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D0C34CC41EA1F63CDB3E852 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				57323FD912FB31E59C5611F2 /* Pods-Regal Vision Reality.debug.xcconfig */,
+				EB662883BBB84EB3F7109AAC /* Pods-Regal Vision Reality.release.xcconfig */,
+				9AD0AAFFDBEA6A788BEB0F39 /* Pods-Regal Vision RealityTests.debug.xcconfig */,
+				888B5AF1CAC1FD4ECAF1E4FE /* Pods-Regal Vision RealityTests.release.xcconfig */,
+				032C5C8AC647783C56207249 /* Pods-Regal Vision RealityUITests.debug.xcconfig */,
+				947FACAEF0798F99D385F139 /* Pods-Regal Vision RealityUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		57807BF0226B64D200ECF6C7 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +109,8 @@
 				57807C10226B64D300ECF6C7 /* Regal Vision RealityTests */,
 				57807C1B226B64D300ECF6C7 /* Regal Vision RealityUITests */,
 				57807BFA226B64D200ECF6C7 /* Products */,
+				3D0C34CC41EA1F63CDB3E852 /* Pods */,
+				A3F50F6D682A2A012B055DE6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +155,16 @@
 			path = "Regal Vision RealityUITests";
 			sourceTree = "<group>";
 		};
+		A3F50F6D682A2A012B055DE6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F075480A9B62D5420B29541D /* Pods_Regal_Vision_Reality.framework */,
+				3C543B6C7DE7787F36378B19 /* Pods_Regal_Vision_RealityTests.framework */,
+				8408EC827372D85AFB53745C /* Pods_Regal_Vision_RealityUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,6 +172,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 57807C21226B64D300ECF6C7 /* Build configuration list for PBXNativeTarget "Regal Vision Reality" */;
 			buildPhases = (
+				A666B4CE785B68212B2633C5 /* [CP] Check Pods Manifest.lock */,
 				57807BF5226B64D200ECF6C7 /* Sources */,
 				57807BF6226B64D200ECF6C7 /* Frameworks */,
 				57807BF7226B64D200ECF6C7 /* Resources */,
@@ -149,6 +190,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 57807C24226B64D300ECF6C7 /* Build configuration list for PBXNativeTarget "Regal Vision RealityTests" */;
 			buildPhases = (
+				6C21B2B7B6565FB29254AB74 /* [CP] Check Pods Manifest.lock */,
 				57807C09226B64D300ECF6C7 /* Sources */,
 				57807C0A226B64D300ECF6C7 /* Frameworks */,
 				57807C0B226B64D300ECF6C7 /* Resources */,
@@ -167,6 +209,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 57807C27226B64D300ECF6C7 /* Build configuration list for PBXNativeTarget "Regal Vision RealityUITests" */;
 			buildPhases = (
+				7033AB04B16C48C92756EEBB /* [CP] Check Pods Manifest.lock */,
 				57807C14226B64D300ECF6C7 /* Sources */,
 				57807C15226B64D300ECF6C7 /* Frameworks */,
 				57807C16226B64D300ECF6C7 /* Resources */,
@@ -250,6 +293,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6C21B2B7B6565FB29254AB74 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Regal Vision RealityTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7033AB04B16C48C92756EEBB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Regal Vision RealityUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A666B4CE785B68212B2633C5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Regal Vision Reality-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		57807BF5226B64D200ECF6C7 /* Sources */ = {
@@ -430,6 +542,7 @@
 		};
 		57807C22226B64D300ECF6C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 57323FD912FB31E59C5611F2 /* Pods-Regal Vision Reality.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -448,6 +561,7 @@
 		};
 		57807C23226B64D300ECF6C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB662883BBB84EB3F7109AAC /* Pods-Regal Vision Reality.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -466,6 +580,7 @@
 		};
 		57807C25226B64D300ECF6C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9AD0AAFFDBEA6A788BEB0F39 /* Pods-Regal Vision RealityTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,6 +602,7 @@
 		};
 		57807C26226B64D300ECF6C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 888B5AF1CAC1FD4ECAF1E4FE /* Pods-Regal Vision RealityTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +624,7 @@
 		};
 		57807C28226B64D300ECF6C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 032C5C8AC647783C56207249 /* Pods-Regal Vision RealityUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -528,6 +645,7 @@
 		};
 		57807C29226B64D300ECF6C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 947FACAEF0798F99D385F139 /* Pods-Regal Vision RealityUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
